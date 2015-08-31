@@ -10,9 +10,5 @@
     "issues": "https://github.com/flowconcept/contact_view_builder/issues",
     "source": "https://github.com/flowconcept/contact_view_builder.git"
   },
-  "source": {
-    "url": "git@github:flowconcept/contact_view_builder.git",
-    "type": "git"
-  },
   "require": { }
 }
