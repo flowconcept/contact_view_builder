@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @file
+ * Contains contact_view_builder.module.
+ */
+
+/**
+ * Implements hook_entity_type_alter().
+ */
+function contact_view_builder_entity_type_alter(&$entity_types) {
+  $entity_types['contact_form']->setViewBuilderClass('Drupal\contact_view_builder\ContactFormViewBuilder');
+}

@@ -1,0 +1,14 @@
+{
+  "name": "drupal/contact_view_builder",
+  "type": "drupal-module",
+  "description": "Implements ContactFormViewBuilder on behalf of contact module.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/flowconcept/contact_view_builder",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/flowconcept/contact_view_builder/issues",
+    "source": "https://github.com/flowconcept/contact_view_builder.git"
+  },
+  "require": { }
+}
